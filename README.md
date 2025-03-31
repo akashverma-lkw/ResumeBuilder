@@ -62,7 +62,7 @@ Resume Builder is a React-based web application that allows users to create, pre
 This project is open-source under the MIT License.
 
 ## ✨ Contributors
-- **Akash Verma** ([@your-github](https://github.com/your-github))
+- **Akash Verma** ([https://github.com/akashverma-lkw])
 
 ---
 💡 Feel free to contribute by submitting issues or pull requests!
