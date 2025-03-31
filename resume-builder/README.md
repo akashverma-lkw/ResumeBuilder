@@ -7,7 +7,6 @@ Resume Builder is a React-based web application that allows users to create, pre
 - 📝 **Resume Form**: Fill in your personal, educational, and professional details.
 - 👀 **Live Preview**: See real-time updates as you type.
 - 📄 **PDF Download**: Download your resume in a printable PDF format.
-- 🌗 **Dark/Light Mode**: Toggle between dark and light themes.
 - 💾 **Auto-Save**: Saves resume data in localStorage for persistence.
 - 📱 **Mobile-Friendly**: Responsive design with a preview modal for mobile users.
 
