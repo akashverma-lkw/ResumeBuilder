@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #resumeToPrint, #resumeToPrint * {
+    visibility: visible;
+  }
+  #resumeToPrint {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+}
+  
+
+.resume-form{
+  scrollbar-width: none;
+}
+
+body{
+  scrollbar-width: none;
+}
